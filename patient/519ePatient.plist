@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bitcare.519ePatient</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>我要就医</string>
+				<string>519e移动医院</string>
 				<key>title</key>
-				<string>我要就医</string>
+				<string>519e移动医院</string>
 			</dict>
 		</dict>
 	</array>
